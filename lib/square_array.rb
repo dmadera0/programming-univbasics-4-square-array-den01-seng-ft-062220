@@ -3,4 +3,4 @@ def square_array(array)
   number.each do |num|
     new_numbers << (num**2) 
 end
-return
+return new_numbers
